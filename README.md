@@ -25,6 +25,16 @@ Install my-project with npm
 
   npm run start
 ```
+
+Install my-project with yarn
+
+```bash
+  cd Nodemailer.js
+  
+  yarn
+
+  yarn start
+```
     
 ## Environment Variables
 
